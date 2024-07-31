@@ -1,0 +1,3 @@
+/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/build/CMakeFiles/VidStab.dir
+/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/build/CMakeFiles/edit_cache.dir
+/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/build/CMakeFiles/rebuild_cache.dir

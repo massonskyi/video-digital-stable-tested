@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -std=gnu++23 -o CMakeFiles/VidStab.dir/main.cpp.o -c /home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/main.cpp",
+  "file": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/main.cpp",
+  "output": "CMakeFiles/VidStab.dir/main.cpp.o"
+},
+{
+  "directory": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -std=gnu++23 -o CMakeFiles/VidStab.dir/src/vidstable.cpp.o -c /home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/vidstable.cpp",
+  "file": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/vidstable.cpp",
+  "output": "CMakeFiles/VidStab.dir/src/vidstable.cpp.o"
+},
+{
+  "directory": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -std=gnu++23 -o CMakeFiles/VidStab.dir/src/vidstab_utils.cpp.o -c /home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/vidstab_utils.cpp",
+  "file": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/vidstab_utils.cpp",
+  "output": "CMakeFiles/VidStab.dir/src/vidstab_utils.cpp.o"
+},
+{
+  "directory": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -std=gnu++23 -o CMakeFiles/VidStab.dir/src/auto_border_utils.cpp.o -c /home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/auto_border_utils.cpp",
+  "file": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/auto_border_utils.cpp",
+  "output": "CMakeFiles/VidStab.dir/src/auto_border_utils.cpp.o"
+},
+{
+  "directory": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -std=gnu++23 -o CMakeFiles/VidStab.dir/src/border_utils.cpp.o -c /home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/border_utils.cpp",
+  "file": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/border_utils.cpp",
+  "output": "CMakeFiles/VidStab.dir/src/border_utils.cpp.o"
+},
+{
+  "directory": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -std=gnu++23 -o CMakeFiles/VidStab.dir/src/cv2_utils.cpp.o -c /home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/cv2_utils.cpp",
+  "file": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/cv2_utils.cpp",
+  "output": "CMakeFiles/VidStab.dir/src/cv2_utils.cpp.o"
+},
+{
+  "directory": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -std=gnu++23 -o CMakeFiles/VidStab.dir/src/frame_queue.cpp.o -c /home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/frame_queue.cpp",
+  "file": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/frame_queue.cpp",
+  "output": "CMakeFiles/VidStab.dir/src/frame_queue.cpp.o"
+},
+{
+  "directory": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -std=gnu++23 -o CMakeFiles/VidStab.dir/src/frame.cpp.o -c /home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/frame.cpp",
+  "file": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/frame.cpp",
+  "output": "CMakeFiles/VidStab.dir/src/frame.cpp.o"
+},
+{
+  "directory": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -std=gnu++23 -o CMakeFiles/VidStab.dir/src/general_utils.cpp.o -c /home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/general_utils.cpp",
+  "file": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/general_utils.cpp",
+  "output": "CMakeFiles/VidStab.dir/src/general_utils.cpp.o"
+},
+{
+  "directory": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -std=gnu++23 -o CMakeFiles/VidStab.dir/src/layer_utils.cpp.o -c /home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/layer_utils.cpp",
+  "file": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/layer_utils.cpp",
+  "output": "CMakeFiles/VidStab.dir/src/layer_utils.cpp.o"
+},
+{
+  "directory": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -std=gnu++23 -o CMakeFiles/VidStab.dir/src/main_utils.cpp.o -c /home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/main_utils.cpp",
+  "file": "/home/massonskyi/repo/video-digital-stable/video-stable-version-1/cstable/src/main_utils.cpp",
+  "output": "CMakeFiles/VidStab.dir/src/main_utils.cpp.o"
+}
+]

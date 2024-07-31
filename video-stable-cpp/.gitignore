@@ -1,0 +1,16 @@
+*.mp4
+*.avi
+
+.vscode
+
+build
+
+CMakeFiles
+
+CMakeCache.txt
+stabilizer_log.txt
+*.sh
+*.exe
+*.cmake
+
+VideoStabilization
